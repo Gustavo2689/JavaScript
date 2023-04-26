@@ -1,0 +1,7 @@
+Agrgando JavaScript a una página
+
+¿Donde va el código?
+	Dentro de la página web. Entre etiquetas <script></script>
+		En el head
+		En cualquier otra parte
+	En archivos externos con extensión js.

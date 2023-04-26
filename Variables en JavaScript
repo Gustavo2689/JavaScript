@@ -1,0 +1,17 @@
+Variables en JavaScript
+
+Reglas a la hora de dar nombre a una variable:
+	Han de comenzar por la letra, símbolo $ ó _
+	Han de contener solo letras, números, $ y _
+	Son case sensitive
+	No deber ser palabras reservadas
+	Se recomienda que sean descriptivos
+
+Usando e iniciando variables
+	
+	iniciar una variable: var puntuacion=0;
+						  var puntuacion=0, record=5000, jugador="Juan"
+
+Operadores básicos 
+
+Operador: +, -, *, /
